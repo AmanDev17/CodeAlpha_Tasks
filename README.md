@@ -1,6 +1,4 @@
-# CodeAlpha_Tasks
-
-# CodeAlpha Java Internship – Project Portfolio
+# CodeAlpha_Tasks -  CodeAlpha Java Internship 
 
 ## 📌 Overview
 This repository contains all the tasks and projects completed during my **CodeAlpha Java Internship**.  
